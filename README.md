@@ -53,47 +53,47 @@ TRAILER HITCH:
 ### SERVICE
 
 ENGINE OIL:
-  OIL: MOB 5W-30 ESP
-  QUANTITY: 11.5 liter
-  Filter: BOS F026407112
-  Filter adapter: 74mm
-  Filter torque: 25Nm
-  NOTES: Replace with filter and 3 rubber gaskets
+  - OIL: MOB 5W-30 ESP
+  - QUANTITY: 11.5 liter
+  - Filter: BOS F026407112
+  - Filter adapter: 74mm
+  - Filter torque: 25Nm
+  - NOTES: Replace with filter and 3 rubber gaskets
   
 REAL AXLE OIL:
-  OIL: SAE 75W-85
-  SPEC: MB235.21
-  QUANTITY: 2.2 liter
+  - OIL: SAE 75W-85
+  - SPEC: MB235.21
+  - QUANTITY: 2.2 liter
 
 FRONT AXLE OIL:
-  OIL: 75W-90
-  QUANTITY:
+  - OIL: 75W-90
+  - QUANTITY:
   
 TRANSMISSION OIL:
-  OIL: 236.14
-  QUANTITY: 5 or 8 liter (if full drain)
-  NOTES: Replace with filter, washer and rubber gasket
+  - OIL: 236.14
+  - QUANTITY: 5 or 8 liter (if full drain)
+  - NOTES: Replace with filter, washer and rubber gasket
 
 AIR FILTER:
-  BOSCH: BOS F026400055
+  - BOSCH: BOS F026400055
 
 FUIL FILTER:
-  BOSCH: BOS F026402838
+  - BOSCH: BOS F026402838
 
 FRONT WEEL BREAK PADS:
   - MERCEDES: A9064210300
   - BOSCH: BOS 0986494194
 
 FRONT WEEL BREAK DISK:
-  MERCEDES: A 906 421 00 12
+  - MERCEDES: A 906 421 00 12
   
 BREAK FLUID:
-  FLUID: DOT 4
+  - FLUID: DOT 4
 
 COOLANT:
-  G13 (PINK)
+  - G13 (PINK)
 
 V-BELT:
-  LENGHT: 2215 mm
-  INA: 529 0361 10
+  - LENGHT: 2215 mm
+  - INA: 529 0361 10
   
