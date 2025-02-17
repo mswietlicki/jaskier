@@ -77,7 +77,7 @@ FRONT AXLE OIL:
   
 TRANSMISSION OIL:
   - OIL: 236.14
-  - QUANTITY: 5 or 8 liter (if full drain)
+  - QUANTITY: 5 or 8 liters (if full drain)
   - NOTES: Replace with filter, washer and rubber gasket
 
 AIR FILTER:
@@ -97,7 +97,9 @@ BREAK FLUID:
   - FLUID: DOT 4
 
 COOLANT:
-  - G13 (PINK)
+  - FLUID: G13 (PINK)
+  - RATIO: 1:1
+  - QUANTITY: 10 liters
 
 V-BELT:
   - LENGHT: 2215 mm
