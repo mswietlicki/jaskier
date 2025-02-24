@@ -60,7 +60,7 @@ TRAILER HITCH:
 
 ENGINE OIL:
   - OIL: MOB 5W-30 ESP
-  - QUANTITY: 11.5 liter
+  - QUANTITY: 11.5 L
   - Filter: BOS F026407112
   - Filter adapter: 74mm
   - Filter torque: 25Nm
@@ -68,17 +68,30 @@ ENGINE OIL:
   
 REAL AXLE OIL:
   - OIL: SAE 75W-85
-  - SPEC: MB235.21
-  - QUANTITY: 2.2 liter
+  - SPEC: MB235.31
+  - QUANTITY: 2.2 L
+  - TORQUE: 60 Nm (+ 90 degress)
 
 FRONT AXLE OIL:
   - OIL: 75W-90
-  - QUANTITY:
-  
+  - SPEC: MB235.8
+  - QUANTITY: 0.65 L (0.85 L full refill)
+  - TORQUE: 50 Nm
+
+TRANSFER CASE:
+  - OIL: ATF 3353
+  - SPEC: 236.12
+  - QUANTITY: 1 L
+  - TORQUE: 40 Nm
+
 TRANSMISSION OIL:
-  - OIL: 236.14
-  - QUANTITY: 5 or 8 liters (if full drain)
+  - OIL: ATF 4134
+  - SPEC: 236.14
+  - QUANTITY: 5.5 L (7.1 L with torque converter)
   - NOTES: Replace with filter, washer and rubber gasket
+  - TORQUE:
+    - Drain screw on oil pan: 22 Nm
+    - Bolt, oil pan to transmission housing: 9 Nm
 
 AIR FILTER:
   - BOSCH: BOS F026400055
@@ -99,7 +112,7 @@ BREAK FLUID:
 COOLANT:
   - FLUID: G13 (PINK)
   - RATIO: 1:1
-  - QUANTITY: 10 liters
+  - QUANTITY: 10 L (aprx. 7 L when using drain plug)
 
 V-BELT:
   - LENGHT: 2215 mm
